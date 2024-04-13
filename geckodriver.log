@@ -1,0 +1,194 @@
+1713036692726	geckodriver	INFO	Listening on 127.0.0.1:55872
+1713036695784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileN3JhO2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713036696543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713036696746	Marionette	INFO	Listening on port 55881
+WebDriver BiDi listening on ws://127.0.0.1:55873
+Read port: 55881
+1713036697162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55873/devtools/browser/0666e6e4-425f-4b49-baa2-effc20a48140
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1713036703403	Marionette	INFO	Stopped listening on port 55881
+Dynamically enable window occlusion 1
+1713036812879	geckodriver	INFO	Listening on 127.0.0.1:56020
+1713036815924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileLnCTtP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713036816656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713036816831	Marionette	INFO	Listening on port 56029
+WebDriver BiDi listening on ws://127.0.0.1:56021
+Read port: 56029
+1713036817136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56021/devtools/browser/e05f67f7-d9c4-457f-859f-87387940c850
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713036825571	Marionette	INFO	Stopped listening on port 56029
+Dynamically enable window occlusion 1
+1713036891776	geckodriver	INFO	Listening on 127.0.0.1:56127
+1713036894799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofilepVSC2l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713036895583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713036895792	Marionette	INFO	Listening on port 56137
+WebDriver BiDi listening on ws://127.0.0.1:56128
+Read port: 56137
+1713036895980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56128/devtools/browser/cd04a323-7ee0-4c59-bf9a-4539a57432ee
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713036903799	Marionette	INFO	Stopped listening on port 56137
+Dynamically enable window occlusion 1
+1713036951414	geckodriver	INFO	Listening on 127.0.0.1:56309
+1713036954355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileoJQsCq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713036954830	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713036954992	Marionette	INFO	Listening on port 56320
+WebDriver BiDi listening on ws://127.0.0.1:56310
+Read port: 56320
+1713036955285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56310/devtools/browser/b9727318-efd1-424f-b0be-b989119ab2de
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713036969845	Marionette	INFO	Stopped listening on port 56320
+Dynamically enable window occlusion 1
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713036981324	geckodriver	INFO	Listening on 127.0.0.1:56399
+1713036984360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileoWiWmX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713036984717	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713036984844	Marionette	INFO	Listening on port 56410
+WebDriver BiDi listening on ws://127.0.0.1:56400
+Read port: 56410
+1713036985059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56400/devtools/browser/7d963cb8-4eb3-4bd5-96ad-642984442750
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/domnode24, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetNodeFrontSelectorsFromTopDocument@resource://devtools/shared/commands/inspector/inspector-command.js:342:42\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1479:8\nonNewSelection@resource://devtools/client/inspector/inspector.js:1553:10\ninit@resource://devtools/client/inspector/inspector.js:256:10\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonSidebarSelect@resource://devtools/client/inspector/boxmodel/box-model.js:398:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nhandleSelectionChange@resource://devtools/client/inspector/toolsidebar.js:216:10\naddAllQueuedTabs/<@resource://devtools/client/shared/components/tabs/TabBar.js:188:20\ncallCallback@resource://devtools/client/shared/vendor/react-dom.js:12127:12\ncommitUpdateEffects@resource://devtools/client/shared/vendor/react-dom.js:12166:19\ncommitUpdateQueue@resource://devtools/client/shared/vendor/react-dom.js:12154:22\ncommitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12964:28\ncommitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23\ncommitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28\ncompleteRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ncompleteRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27\nperformWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21\nperformWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24\nperformSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14\nrequestWork@resource://devtools/client/shared/vendor/react-dom.js:15410:5\nscheduleWork@resource://devtools/client/shared/vendor/react-dom.js:15224:16\nenqueueSetState@resource://devtools/client/shared/vendor/react-dom.js:8192:17\nComponent.prototype.setState@resource://devtools/client/shared/vendor/react.js:328:16\naddAllQueuedTabs@resource://devtools/client/shared/components/tabs/TabBar.js:186:10\naddAllQueuedTabs@resource://devtools/client/inspector/toolsidebar.js:78:18\nsetupSidebar@resource://devtools/client/inspector/inspector.js:1266:18\ninit@resource://devtools/client/inspector/inspector.js:251:10\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1050:23\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1050:23\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1157:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1050:23\n", "resource://devtools/shared/protocol/Front.js", 105))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+getApplied@resource://devtools/client/fronts/page-style.js:61:29
+populate@resource://devtools/client/inspector/rules/models/element-style.js:123:8
+_populate@resource://devtools/client/inspector/rules/rules.js:1157:8
+refreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle21, type getApplied failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+getApplied@resource://devtools/client/fronts/page-style.js:61:29
+populate@resource://devtools/client/inspector/rules/models/element-style.js:123:8
+_populate@resource://devtools/client/inspector/rules/rules.js:1157:8
+refreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1092:19
+
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037014827	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-PWTK27XVWP&l=dataLayer&cx=c, line 199: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-PWTK27XVWP&l=dataLayer&cx=c:199:1328
+eA@https://www.googletagmanager.com/gtag/js?id=G-PWTK27XVWP&l=dataLayer&cx=c:550:134
+fA/<@https://www.googletagmanager.com/gtag/js?id=G-PWTK27XVWP&l=dataLayer&cx=c:550:111
+
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713038955146	Marionette	INFO	Stopped listening on port 56410
+Dynamically enable window occlusion 1
+le.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713037191236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1713037191397	Marionette	INFO	Listening on port 56622
+WebDriver BiDi listening on ws://127.0.0.1:56614
+Read port: 56622
+1713037191717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56614/devtools/browser/fc3cacc8-c298-458c-b5e3-f16340e0d965
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037207242	Marionette	INFO	Stopped listening on port 56622
+Dynamically enable window occlusion 1
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713037323781	geckodriver	INFO	Listening on 127.0.0.1:56802
+1713037326827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofilecyZhdp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713037327232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1713037327399	Marionette	INFO	Listening on port 56812
+WebDriver BiDi listening on ws://127.0.0.1:56803
+Read port: 56812
+1713037327718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56803/devtools/browser/871529c7-0a21-4f46-b389-4d04735d2cd3
+console.error: "Exception when calling onAvailable handler" "Target already destroyed, unable to fetch children fronts" (new Error("Target already destroyed, unable to fetch children fronts", "resource://devtools/client/fronts/targets/target-mixin.js", 241))
+console.error: (new TypeError("this._cssProperties is undefined", "resource://devtools/client/inspector/inspector.js", 537))
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037339563	Marionette	INFO	Stopped listening on port 56812
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713037443890	geckodriver	INFO	Listening on 127.0.0.1:56942
+1713037446938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofile2HyvBZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713037447234	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1713037447329	Marionette	INFO	Listening on port 56951
+WebDriver BiDi listening on ws://127.0.0.1:56943
+Read port: 56951
+1713037447486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56943/devtools/browser/30505e46-0264-4850-9337-ca08200e355d
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037479296	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713038955112	Marionette	INFO	Stopped listening on port 56951
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileZXPxgk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713037557364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713037557465	Marionette	INFO	Listening on port 57069
+WebDriver BiDi listening on ws://127.0.0.1:57061
+Read port: 57069
+1713037557680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57061/devtools/browser/7456c99a-3c4b-4b69-ad6e-5ffedef1f6fa
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037564973	Marionette	INFO	Stopped listening on port 57069
+Dynamically enable window occlusion 1
+1713037569362	geckodriver	INFO	Listening on 127.0.0.1:57126
+1713037572412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIPE~1\\AppData\\Local\\Temp\\rust_mozprofileIG2Pa7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713037572702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713037572816	Marionette	INFO	Listening on port 57135
+WebDriver BiDi listening on ws://127.0.0.1:57127
+Read port: 57135
+1713037573015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57127/devtools/browser/c8e5d3cb-dcaa-4893-9643-5d1ee17ab887
+1713037575388	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+1713037602737	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://segurosunimed.planium.io/web/common/cookieconsent/cookieconsent-init.js, line 244: TypeError: document.getElementById(...) is null
